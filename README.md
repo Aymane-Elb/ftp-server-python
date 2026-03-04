@@ -48,7 +48,7 @@ You also need an FTP server running on your phone (for example WiFi FTP Server o
 Update the connection parameters in the script:
 
 ```
-host = "192.168.0.101"
+host = "192.168.10.29"
 port = 7812
 user = "your_username"
 password = "your_password"
